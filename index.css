@@ -1,0 +1,14 @@
+body {
+	background-color: #77789f;
+	display: grid;
+	height: 100dvh;
+	place-content: center;
+}
+
+.icon-small {
+	font-size: 20px;
+}
+
+.icon-large {
+	font-size: 35px;
+}
